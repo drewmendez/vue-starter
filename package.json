@@ -1,8 +1,9 @@
 {
-  "name": "personal-vue-starter",
+  "name": "vue-starter",
   "type": "module",
   "version": "0.0.0",
   "private": true,
+  "packageManager": "pnpm@10.30.3",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
